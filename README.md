@@ -1,4 +1,4 @@
-# Taichi-action-recognition-and-segmentation
+# Action-recognition-and-segmentation
 This project records the studies around Taichi dataset, including action recognition and action segmentation.
 
 ## Taichi Dataset
