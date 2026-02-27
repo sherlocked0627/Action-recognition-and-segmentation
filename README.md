@@ -1,8 +1,8 @@
 # Action-recognition-and-segmentation
 This project records the studies around Taichi dataset, including action recognition and action segmentation.
 
-## Taichi Dataset
-Taichi data can be found in https://hit605.org/projects/taichi-data/.
+## Dataset
+Data can be found in https://hit605.org/projects/taichi-data/.
 
 ## Citation
 Please cite these papers in your publications if this code helps your research.
